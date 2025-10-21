@@ -1,0 +1,1 @@
+{"name":"Local: find_frequency_strings","url":"d:\\DSA\\C++ STL\\MAPS\\find_frequency_strings.cpp","tests":[{"id":1760539037066,"input":"5\nfazeel\nfazeel\nfazeel\nmub\nmub","output":"fazeel 3\nmub 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\C++ STL\\MAPS\\find_frequency_strings.cpp","group":"local","local":true}

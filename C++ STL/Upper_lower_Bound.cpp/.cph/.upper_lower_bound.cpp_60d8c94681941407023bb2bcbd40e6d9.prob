@@ -1,0 +1,1 @@
+{"name":"Local: upper_lower_bound","url":"d:\\DSA\\C++ STL\\Upper_lower_Bound.cpp\\upper_lower_bound.cpp","tests":[{"id":1755206994191,"input":"5\n4 5 5 7 8 10","output":"Lower Bound is: 8\nUpper Bound is: 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\C++ STL\\Upper_lower_Bound.cpp\\upper_lower_bound.cpp","group":"local","local":true}
