@@ -10,7 +10,7 @@ int main()
     {
         int fre = 1;
         bool alreadyChecked = false;
-
+       
         for (int k = 0; k < i; k++)
         {
             if (arr[i] == arr[k])

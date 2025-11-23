@@ -8,6 +8,8 @@ int main()
 
     sort(arr, arr + n);
 
+     // O(n) sol
+     
     int fre = 1;
     int ele = arr[0];
 

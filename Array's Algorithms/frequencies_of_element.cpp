@@ -21,7 +21,7 @@ int main()
             if(arr[i]==arr[j]){
                fre[i]++; 
             }
-        }
+        }    
     cout<<arr[i]<<" has frequency: "<<fre[i]<<" \n";
     }
     
